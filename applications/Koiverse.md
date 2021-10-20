@@ -71,6 +71,7 @@ The technicals:
 * Ray hou
 * Yuan Li
 * Jelly
+* Hongfeng
 
 ### Contact
 * **Contact Name:** 
