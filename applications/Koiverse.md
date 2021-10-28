@@ -55,8 +55,8 @@ Pictorial Book Mining
 
 ### Project Details
 Code:
-* https://github.com/KoiMetaverse/koi-contracts
-* https://github.com/KoiMetaverse/koi-web
+* https://github.com/KoiMetaverse/koi-contracts-polkadot
+* https://github.com/KoiMetaverse/koi-web-polkadot
 
 The technicals:
   * a JavaScript (pixi.js) game frontend
@@ -90,8 +90,45 @@ The team has more than ten years of game development experience and 3 years of b
 
 ## Development Roadmap
 
-Code commited reguarly to the GitHub repository.
+### Overview
+* **Total Estimated Duration:** 12 weeks
 
-* Mining module: November 5th
-* Breeding module: November 19th
-* Pictorial Book module: December 5th
+### Milestone 1  — 游戏设计
+* **Estimated Duration:** 4 weeks
+* **Costs:**  
+
+| Number | Deliverable | Specification |
+| ------------- | ------------- | ------------- |
+| 0a. | License | Apache 2.0 |
+| 0b. | Documentation | Documents containing the description of whole architecture design for KoiMetaverse |
+| 0c. | Testing Guide | The code will have unit-test coverage to ensure functionality and robustness. In the guide we will describe how to run these tests |
+| 1a. | 艺术风格设计 | 完成游戏美术风格设计。 |
+| 1b. | 鱼的基因 | 完成鱼基因的设计。 |
+| 1c. | 1000条鱼的形象 | 绘制许多鱼的身体组件，可以用这些组件至少组合出1000条形态各异的鱼。 |
+
+
+### Milestone 2  — nft相关工作
+* **Estimated Duration:** 4 weeks
+* **Costs:**  
+
+| Number | Deliverable | Specification |
+| ------------- | ------------- | ------------- |
+| 2a. | Subkoi | 基于Substrate构建游戏平行链--SubKoi. |
+| 2b. | 发币 SHELL | 在SubKoi上发代币SHELL，SHELL是游戏中的通用代币. |
+| 2c. | NFT | 在SubKoi上发NFT. |
+| 1c. | NFT预售, 盲盒合约 | 用rust写智能合约，实现一个盲盒，运行在SubKoi上。 |
+| 1c. | NFT预售, 盲盒前端 | 用react.js, polkadot.js 开发一个web页面。 |
+
+
+### Milestone 3  — 游戏逻辑实现
+* **Estimated Duration:** 4 weeks
+* **Costs:**  
+
+| Number | Deliverable | Specification |
+| ------------- | ------------- | ------------- |
+| 1a. | 鱼挖矿合约 | 用rust写智能合约，实现鱼的挖矿产币逻辑，用户质押NFT可以挖SHELL，运行在SubKoi上。 |
+| 1a. | 鱼挖矿前端 | 用react.js, polkadot.js, pixi.js 开发鱼产币游戏前端。 |
+| 1b. | 繁殖合约 | 用rust写智能合约，实现两条父母鱼繁殖出新鱼的逻辑，运行在SubKoi上。 |
+| 1b. | 繁殖前端 |用react.js, polkadot.js, pixi.js 开发繁殖游戏前端。 |
+| 1a. | 图鉴合约 | 用rust写智能合约，实现图鉴挖矿的逻辑，运行在SubKoi上。 |
+| 1a. | 图鉴前端 | 用react.js, polkadot.js, pixi.js 开发图鉴挖矿游戏前端。 |
