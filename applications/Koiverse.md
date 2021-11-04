@@ -40,7 +40,7 @@ We are creating new kinds of virtual assets on Blockchain. Certainly we are the 
 
 The technical architecture of the project:
 
-![](https://keep.google.com/u/0/media/v2/1ZiTC62k6YWZBPGNIpTQJIqo32M2wikywBUCs6SObaY9e14gi5tfz3yTBLFq4yg/1golWLp0TNcsZVpI2x9Dt2gcmBoYSRTj3qIyAj4Y89Qe1ZfTkBaG0-sbTePzo7g?sz=512&accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Cimage%2Fwebp)
+![](https://statics.fishnft.xyz/github/koi.png)
 
 
 The gaming NFT protocols and Dapp consists of:
