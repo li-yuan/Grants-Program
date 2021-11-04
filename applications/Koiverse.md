@@ -40,12 +40,7 @@ We are creating new kinds of virtual assets on Blockchain. Certainly we are the 
 
 The technical architecture of the project:
 
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold"> https://keep.google.com/u/0/media/v2/1ZiTC62k6YWZBPGNIpTQJIqo32M2wikywBUCs6SObaY9e14gi5tfz3yTBLFq4yg/1golWLp0TNcsZVpI2x9Dt2gcmBoYSRTj3qIyAj4Y89Qe1ZfTkBaG0-sbTePzo7g?sz=512&accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Cimage%2Fwebp </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
+![](https://keep.google.com/u/0/media/v2/1ZiTC62k6YWZBPGNIpTQJIqo32M2wikywBUCs6SObaY9e14gi5tfz3yTBLFq4yg/1golWLp0TNcsZVpI2x9Dt2gcmBoYSRTj3qIyAj4Y89Qe1ZfTkBaG0-sbTePzo7g?sz=512&accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Cimage%2Fwebp)
 
 
 The gaming NFT protocols and Dapp consists of:
